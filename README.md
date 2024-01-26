@@ -3,7 +3,7 @@
 - :revolving_hearts:️ I'm looking to collaborate on IT 
 - :mailbox: How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923356651947">+923356651947</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mirzaibtisam41@gmail.com">mirzaibtisam41@gmail.com</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mirzaibtisam42@gmail.com">mirzaibtisam41@gmail.com</a>)<br/>
               }
 <h1>Connect with me </h1>
 
