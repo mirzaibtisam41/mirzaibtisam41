@@ -1,5 +1,5 @@
-- :wave: Hi,,, I'm  Touqeer Hussain
-- :seedling: I'm currently working Javascript and .NET diffrent frameworks and libraries
+- :wave: Hi,,, I'm  Muhammad Ibtisam
+- :seedling: I'm currently working Javascript's diffrent frameworks and libraries
 - :revolving_hearts:️ I'm looking to collaborate on IT 
 - :coffee: <a href="https://www.buymeacoffee.com/mirzaibtisam41" target="_blank">Buy me Coffee</a>
 - :mailbox: How to reach me: { <br/>
