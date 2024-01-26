@@ -1,11 +1,9 @@
 - :wave: Hi,,, I'm  Muhammad Ibtisam
 - :seedling: I'm currently working Javascript's diffrent frameworks and libraries
 - :revolving_hearts:️ I'm looking to collaborate on IT 
-- :coffee: <a href="https://www.buymeacoffee.com/mirzaibtisam41" target="_blank">Buy me Coffee</a>
 - :mailbox: How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923356651947">+923356651947</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mirzaibtisam41@gmail.com">mirzaibtisam41@gmail.com</a>)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="https://www.touqeerhussain.com/">touqeerhussain.com</a>)<br/>
               }
 <h1>Connect with me </h1>
 
