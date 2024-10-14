@@ -7,7 +7,7 @@
               }
 <h1>Connect with me </h1>
 
-<a href="https://www.linkedin.com/in/muhammad-ibtisam-56a0811a6/" rel="nofollow">
+<a href="https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6/" rel="nofollow">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
 </a>
 <span>
