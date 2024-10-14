@@ -22,7 +22,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mirzaibtisam41)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzaibtisam41&show_icons=true&theme=default)
+![Ibtisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzaibtisam41&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaibtisam41)](https://github.com/mirzaibtisam41/github-readme-stats)
 
