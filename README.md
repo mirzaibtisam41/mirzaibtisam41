@@ -8,7 +8,7 @@ I'm open to collaboration on **IT-related projects**, especially web and app dev
 
 ### 📫 How to Reach Me:
 - 📞 Phone: [ +92 335 665 1947 ](tel:+923356651947)  
-- 📧 Email: [ mirzaibtisam42@gmail.com ](mailto:mirzaibtisam42@gmail.com)  
+- 📧 Email: [ mirzaibtisam43@gmail.com ](mailto:mirzaibtisam43@gmail.com)  
 - 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com) <!-- Replace with actual link -->
 - 💼 Upwork: [https://www.upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~yourprofile) <!-- Replace with actual link -->
 - 🎯 Fiverr: [https://www.fiverr.com/yourusername](https://www.fiverr.com/yourusername) <!-- Replace with actual link -->
