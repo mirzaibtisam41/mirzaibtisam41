@@ -1,31 +1,59 @@
-- :wave: Hi,,, I'm  Muhammad Ibtisam
-- :seedling: I'm currently working Javascript's diffrent frameworks and libraries
-- :revolving_hearts:️ I'm looking to collaborate on IT 
-- :mailbox: How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+92 335 665 1947">+923356651947</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mirzaibtisam42@gmail.com">mirzaibtisam42@gmail.com</a>)<br/>
-              }
-<h1>Connect with me </h1>
+# 👋 Hi there! I'm Muhammad Ibtisam
 
-<a href="https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6/" rel="nofollow">
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
+### 🌱 Currently Exploring:
+I'm currently working with various **JavaScript frameworks and libraries**, including **React**, **Next.js**, **Node.js**, and **Express**. I enjoy building responsive web applications and improving my full-stack development skills.
+
+### 🤝 Looking to Collaborate:
+I'm open to collaboration on **IT-related projects**, especially web and app development. Let's build something impactful together!
+
+### 📫 How to Reach Me:
+- 📞 Phone: [ +92 335 665 1947 ](tel:+923356651947)  
+- 📧 Email: [ mirzaibtisam42@gmail.com ](mailto:mirzaibtisam42@gmail.com)  
+- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com) <!-- Replace with actual link -->
+- 💼 Upwork: [https://www.upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~yourprofile) <!-- Replace with actual link -->
+- 🎯 Fiverr: [https://www.fiverr.com/yourusername](https://www.fiverr.com/yourusername) <!-- Replace with actual link -->
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6/](https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6/)
+
+---
+
+## 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6/" target="_blank" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="40" height="40" alt="LinkedIn"/>
 </a>
-<span>
-  <a href="https://github.com/mirzaibtisam41" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
-</span>
+&nbsp;&nbsp;
+<a href="https://github.com/mirzaibtisam41" target="_blank" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732022.png" width="40" height="40" alt="Upwork"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.fiverr.com/yourusername" target="_blank" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968847.png" width="40" height="40" alt="Fiverr"/>
+</a>
 
+---
 
-<h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,nodejs,express,mongodb"/>
-<br>
+## 🧠 Languages & Tools
 
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,nodejs,express,mongodb" alt="Languages and Tools"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirzaibtisam41)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![Ibtisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzaibtisam41&show_icons=true&theme=default)
+## 🏆 GitHub Trophies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaibtisam41)](https://github.com/mirzaibtisam41/github-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mirzaibtisam41&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mirzaibtisam41)](https://git.io/streak-stats)
-<br>
+## 📊 GitHub Stats
+
+![Ibtisam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzaibtisam41&show_icons=true&theme=default)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaibtisam41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirzaibtisam41&theme=default)](https://git.io/streak-stats)
+
+---
