@@ -1,56 +1,41 @@
-# Hi 👋, I'm Muhammad Ibtisam Tufail  
-**💻 Software Engineer | MERN Stack Developer**  
+<h1 align="center">Hi 👋, I'm Muhammad Ibtisam Tufail</h1>
+<h3 align="center">Full Stack JavaScript Developer with 4 years of experience in **MongoDB, Express.js, React.js, Node.js, and Next.js**. Skilled in building scalable web applications, RESTful APIs, authentication, payment integrations, and real-time systems.</h3>
 
-🚀 Results-driven Full Stack Developer with 3+ years of experience in **MongoDB, Express.js, React.js, Node.js, and Next.js**.  
-Skilled in building scalable web applications, RESTful APIs, authentication, payment integrations, and real-time systems.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaibtisam41&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaibtisam41" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaibtisam41" alt="mirzaibtisam41" /></a> </p>
 
-## 🔭 Current Work
-- Building a **Hospitality Management System** with QR-based ordering & reservation module at Egora.
-- Working on **PlantGuard** – AI-powered plant disease detection (Next.js + Gemini API).
+- 🔭 Current Projects **PlantGuard (AI + Next.js), LocalLink (Services Finder), Local Medicine Tracker**
 
----
+- 🌱 Currently Exploring / Learning **AWS, Docker, Redis, and DevOps tools**
 
-## 👯 Collaboration & Interests
-- Open to collaborating on **MERN / Next.js projects** (startups, SaaS apps, real-time systems).  
-- Looking for help with **AI + MERN integrations**.  
-- Passionate about learning **AWS, Docker, Redis, and DevOps practices**.  
+- 👯 Open to Collaborations On **SaaS apps, MERN stack products, AI-integrated web apps**
 
----
+- 🤝 Seeking Guidance / Mentorship For **Advanced AWS deployments, caching & scaling best practices**
 
-## 💬 Ask Me About
-- MERN Stack Development (React.js, Next.js, Node.js, Express.js, MongoDB)  
-- REST APIs, Authentication & Authorization (JWT, OAuth)  
-- Payment Integrations (Stripe, PayPal)  
-- State Management (Redux Toolkit, Context API)  
+- 👨‍💻 Explore My Work [https://ibtisamtufail.vercel.app/](https://ibtisamtufail.vercel.app/)
 
----
+- 📝 Occasionally Writing At [https://dev.to/muhammad_ibtisam](https://dev.to/muhammad_ibtisam)
 
-## 📂 Featured Projects
-- [PlantGuard](https://plant-disease-detection-coral.vercel.app/) – AI-powered plant & leaf disease detection.  
-- [Nexus Chat](https://nexus-chat-theta.vercel.app/) – Real-time chatbot with Next.js & Gemini API.  
-- [PhoneLab](https://www.phonelab.uk/) – E-commerce platform with PayPal integration.  
-- [ProShip Labels](https://www.proshiplabels.com/) – Shipping label system (UPS + Stripe integration).  
-- [RoadTrip2Go](https://roadtrip2go.nl/) – Trip planning app with real-time maps.  
-- [BedSpoke](https://bedspoke.com.au/) – Real estate platform with tenant/lease management.  
-- [VVFIRE](https://materials.vvfire.com/) – Fire protection order & inventory management.  
+- 💬 Tech I Can Help With **MERN, Next.js, REST APIs, Authentication, Payment Integrations, AI Integrations**
 
----
+- 📫 Reach Me At **mirzaibtisam43@gmail.com**
 
-## 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Redux Toolkit, Context API, Material UI, Tailwind CSS  
-**Backend:** Node.js, Express.js, Socket.io, REST APIs, JWT Authentication  
-**Databases:** MongoDB (Mongoose)  
-**Tools & APIs:** Git, GitHub, Postman, Stripe API, UPS API  
+- 📄 Professional Journey / Resume [https://drive.google.com/file/d/1hgiRM_9yqshdKOZFGDXc3ueuA2Z5so0u/view?usp=sharing](https://drive.google.com/file/d/1hgiRM_9yqshdKOZFGDXc3ueuA2Z5so0u/view?usp=sharing)
 
----
+- ⚡ Fun Fact About Me **Passionate about exploring new technologies and innovations**
 
-## 📫 Connect with Me
-- Email: **mirzaibtisam43@gmail.com**  
-- LinkedIn: [linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6](https://www.linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6)  
-- Location: Lahore, Punjab, Pakistan  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/muhammad_ibtisam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammad_ibtisam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-ibtisam-tufail-56a0811a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ibtisam-tufail-56a0811a6" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-⚡ **Fun Fact:** I debug faster with chai ☕
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaibtisam41&show_icons=true&locale=en&layout=compact" alt="mirzaibtisam41" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzaibtisam41&show_icons=true&locale=en" alt="mirzaibtisam41" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaibtisam41&" alt="mirzaibtisam41" /></p>
