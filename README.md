@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibtisam Tufail</h1>
-<h3 align="center">Full Stack JavaScript Developer with 4 years of experience in **MongoDB, Express.js, React.js, Node.js, and Next.js**. Skilled in building scalable web applications, RESTful APIs, authentication, payment integrations, and real-time systems.</h3>
+<h3 align="center">Full Stack JavaScript Developer with 4 years of experience in MongoDB, Express.js, React.js, Node.js, and Next.js. Skilled in building scalable web applications, RESTful APIs, authentication, payment integrations, and real-time systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaibtisam41&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaibtisam41" /> </p>
 
